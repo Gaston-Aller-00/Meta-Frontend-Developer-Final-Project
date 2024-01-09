@@ -13,7 +13,7 @@ const Header = () => {
             We are family owned Mediterraneran restaurant, focused on
             traditional recipes served with a modern twist
           </p>
-          <Link to="">
+          <Link to="/booking">
             <button aria-label="On Click">Reserve Table</button>
           </Link>
         </div>
